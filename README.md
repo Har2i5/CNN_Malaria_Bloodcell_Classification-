@@ -8,4 +8,10 @@ This project aims to classify blood cells as either parasitized or uninfected us
 
 The dataset used for this project is the **Cell Images for Detecting Malaria**. It contains images of blood cells labeled as either "parasitized" or "uninfected."
 
-- **Source**: [Kaggle - Cell Images for Detecting Malaria](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria)
+## Source: 
+
+[Kaggle - Cell Images for Detecting Malaria](https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria)
+
+## Results
+
+The model achieved an accuracy of **95%** on the validation set. This performance demonstrates the model's ability to effectively classify blood cells as either parasitized or uninfected.
