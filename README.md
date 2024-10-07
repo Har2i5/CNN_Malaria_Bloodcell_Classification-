@@ -14,4 +14,4 @@ The dataset used for this project is the **Cell Images for Detecting Malaria**. 
 
 ## Results
 
-The model achieved an accuracy of **95%** on the validation set. This performance demonstrates the model's ability to effectively classify blood cells as either parasitized or uninfected.
+The model achieved an accuracy of **95%** on the test dataset. This performance demonstrates the model's ability to effectively classify blood cells as either parasitized or uninfected.
